@@ -11,3 +11,4 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added an empty shell package
+- Added Publicize module files to Composer package
