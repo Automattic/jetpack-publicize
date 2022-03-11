@@ -12,3 +12,6 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added an empty shell package
 - Added Publicize module files to Composer package
+
+### Changed
+- Publicize: Do not display legacy UI for block editor pages
