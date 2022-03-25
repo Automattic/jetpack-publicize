@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added an empty shell package
 - Added Publicize module files to Composer package
+- Set composer package type to "jetpack-library" so i18n will work.
 
 ### Changed
 - Publicize: Do not display legacy UI for block editor pages
