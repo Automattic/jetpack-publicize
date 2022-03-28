@@ -15,4 +15,5 @@ This is an alpha version! The changes listed here are not final.
 - Set composer package type to "jetpack-library" so i18n will work.
 
 ### Changed
+- Microperformance: Use === null instead of is_null
 - Publicize: Do not display legacy UI for block editor pages
