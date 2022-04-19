@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Set composer package type to "jetpack-library" so i18n will work.
 
 ### Changed
+- Applied legacy Publicize filters to flag setting for Publicize
 - Fix Composer dependencies
 - Microperformance: Use === null instead of is_null
 - PHPCS: Fix `WordPress.Security.ValidatedSanitizedInput`
