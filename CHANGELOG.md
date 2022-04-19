@@ -22,3 +22,4 @@ This is an alpha version! The changes listed here are not final.
 - Publicize: Do not display legacy UI for block editor pages
 - Sync'd changes with the equivalent files in the Publicize module
 - Updated package dependencies.
+- Update package.json metadata.
