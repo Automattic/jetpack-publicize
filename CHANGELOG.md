@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Added an empty shell package
 - Added Publicize module files to Composer package
 - Set composer package type to "jetpack-library" so i18n will work.
+- Use the publicize package in the Jetpack plugin.
 
 ### Changed
 - Applied legacy Publicize filters to flag setting for Publicize
