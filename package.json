@@ -29,5 +29,8 @@
 		"concurrently": "7.4.0",
 		"webpack": "5.72.1",
 		"webpack-cli": "4.9.1"
+	},
+	"dependencies": {
+		"@wordpress/i18n": "4.19.0"
 	}
 }
