@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"name": "@automattic/jetpack-publicize",
-	"version": "0.55.0",
+	"version": "0.55.1-alpha",
 	"description": "Publicize makes it easy to share your site’s posts on several social media networks automatically when you publish a new post.",
 	"homepage": "https://github.com/Automattic/jetpack/tree/HEAD/projects/packages/publicize/#readme",
 	"bugs": {
@@ -34,7 +34,7 @@
 		"webpack-cli": "4.9.1"
 	},
 	"dependencies": {
-		"@automattic/jetpack-analytics": "^0.1.31",
+		"@automattic/jetpack-analytics": "^0.1.32-alpha",
 		"@wordpress/i18n": "5.9.0"
 	}
 }
