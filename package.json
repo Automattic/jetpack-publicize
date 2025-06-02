@@ -47,7 +47,7 @@
 	},
 	"dependencies": {
 		"@automattic/jetpack-analytics": "^0.1.37",
-		"@automattic/jetpack-publicize-components": "^0.86.2",
+		"@automattic/jetpack-publicize-components": "^0.86.3-alpha",
 		"@wordpress/i18n": "5.24.0"
 	}
 }
