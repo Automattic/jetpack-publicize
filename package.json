@@ -46,8 +46,8 @@
 		"webpack-cli": "6.0.1"
 	},
 	"dependencies": {
-		"@automattic/jetpack-analytics": "^1.0.0",
-		"@automattic/jetpack-publicize-components": "^1.0.2",
+		"@automattic/jetpack-analytics": "^1.0.1-alpha",
+		"@automattic/jetpack-publicize-components": "^1.0.3-alpha",
 		"@wordpress/i18n": "5.24.0"
 	}
 }
