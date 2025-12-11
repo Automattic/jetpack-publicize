@@ -27,7 +27,7 @@
 		"extends @wordpress/browserslist-config"
 	],
 	"dependencies": {
-		"@automattic/jetpack-analytics": "^1.0.6-alpha",
+		"@automattic/jetpack-analytics": "^1.0.6",
 		"@automattic/jetpack-publicize-components": "^1.9.0-alpha",
 		"@wordpress/api-fetch": "7.36.0",
 		"@wordpress/i18n": "6.9.0",
