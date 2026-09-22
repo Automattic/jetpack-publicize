@@ -13,7 +13,7 @@
 		"automattic/jetpack-image-cdn": "^0.8.0",
 		"automattic/jetpack-redirect": "^4.0.0",
 		"automattic/jetpack-plans": "^0.13.0",
-		"automattic/jetpack-post-media": "^0.2.0",
+		"automattic/jetpack-post-media": "^0.2.1-alpha",
 		"automattic/jetpack-status": "^7.0.1",
 		"automattic/jetpack-wp-build-polyfills": "^0.5.7-alpha"
 	},
@@ -66,7 +66,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-publicize/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "0.87.x-dev"
+			"dev-trunk": "0.88.x-dev"
 		}
 	},
 	"config": {
