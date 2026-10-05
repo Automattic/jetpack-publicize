@@ -12,7 +12,7 @@
 		"automattic/jetpack-assets": "^5.0.8",
 		"automattic/jetpack-image-cdn": "^0.8.1",
 		"automattic/jetpack-redirect": "^4.0.0",
-		"automattic/jetpack-plans": "^0.14.0",
+		"automattic/jetpack-plans": "^0.14.1-alpha",
 		"automattic/jetpack-post-media": "^0.3.1",
 		"automattic/jetpack-status": "^7.1.0",
 		"automattic/jetpack-wp-build-polyfills": "^0.6.1"
